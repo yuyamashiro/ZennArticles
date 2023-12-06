@@ -4,6 +4,7 @@ emoji: "🦁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["physics", "quantum", "annealing"]
 published: false
+publication_name: jij_inc
 ---
 
 
