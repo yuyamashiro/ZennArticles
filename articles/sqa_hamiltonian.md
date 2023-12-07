@@ -3,14 +3,14 @@ title: "Simulated Quantum Annealingを導出する"
 emoji: "🦁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["physics", "quantum", "ising". "Jij"]
-published: true
+published: false
 publication_name: jij_inc
 ---
 
 
-初めまして、株式会社Jijの山城です。
+こんにちは、株式会社Jijの山城です。
 
-この記事はJij Inc. Advent Calendar 2023の7日目の記事です。  
+この記事は[Jij Inc. Advent Calendar 2023](https://qiita.com/advent-calendar/2023/jij_inc_2023)の7日目の記事です。  
 前回はJijの広報による ["ChatGPTを使って広報活動レポートを作成し業務効率化"](https://zenn.dev/jij_inc/articles/371d0736797b3e) でした。
 
 Jij(ジェイアイジェイ)は数理最適化、量子技術を用いたソフトウェアの開発を行っています。
