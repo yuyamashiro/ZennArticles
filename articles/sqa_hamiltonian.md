@@ -2,8 +2,8 @@
 title: "Simulated Quantum Annealingを導出する"
 emoji: "🦁"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["physics", "quantum", "ising". "Jij"]
-published: false
+topics: ["physics", "quantum", "ising", "Jij"]
+published: true
 publication_name: jij_inc
 ---
 
@@ -14,11 +14,7 @@ publication_name: jij_inc
 前回はJijの広報による ["ChatGPTを使って広報活動レポートを作成し業務効率化"](https://zenn.dev/jij_inc/articles/371d0736797b3e) でした。
 
 Jij(ジェイアイジェイ)は数理最適化、量子技術を用いたソフトウェアの開発を行っています。
-
-
-Jijの社名の由来となっているのは統計物理のイジングモデルという数理モデルです。Jijはイジングモデルの基底状態を求める量子アルゴリズムである量子アニーリングを技術シードとして設立されたスタートアップです。現在では量子アニーリングだけでなくより広く数理最適化技術によるソフトウェア開発を行っていますが、7日目のアドベントカレンダーではJijらしく量子アニーリングに関することを書きます。
-
-量子アニーリングはもちろん量子デバイスで実行されるアルゴリズムなのですが、よくシミュレーションする手段として Simulated Quantum Annealing (SQA) という手法が用いられます。この記事ではSQAを導出することでSQAがどのような手法なのかを紹介します。
+Jijの社名の由来となっているのは統計物理のイジングモデルに関連して今回はシミュレーテッド量子アニーリングに関する記事を書いていきます。
 
 # はじめに
 
